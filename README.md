@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/GabrielMCS01/UnityProjects)
+
 # Repositorio Geral 
 # Unity
 
