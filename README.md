@@ -4,7 +4,7 @@
 # Repositorio Geral 
 # Unity
 
-Parte deste repositiorio contém projetos feitos em unity que estão abertos para sugestões, melhorias e colaborações
+Upload de compilações de um projeto que realizei no meu 11º ano
 
 --------------
 
@@ -12,7 +12,7 @@ Parte deste repositiorio contém projetos feitos em unity que estão abertos par
 
 ## Projeto Force Racing
 
-A pasta Force Racing tem todos os scripts utilizados no jogo Force Racing para android, todos este scripts estão aqui disponiveis para qualquer melhoria e sugestão
+Desenvolvido para android
 
 ### Construido com 
 
@@ -22,5 +22,5 @@ A pasta Force Racing tem todos os scripts utilizados no jogo Force Racing para a
 * [Android Studio](https://developer.android.com/studio) - Para ter o SDK mais recente e compatibilidade com novas funcionalidades (Android 10)
 
 -------------
-![Programador](https://github.com/GabrielMCS01/-GabrielDATA/blob/master/programador.gif)
+![Programador](https://github.com/GabrielMCS01/-GabrielDATA/blob/master/programador.gif) :)
 
